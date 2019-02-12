@@ -1,4 +1,4 @@
-#What is ODBC?
+# What is ODBC?
 
 	Open Database Connectivity
 
@@ -12,7 +12,7 @@
 
 	用ODBC可以访问各类计算机上的DB文件，甚至访问如Excel表和ASCII数据文件这类非数据库对象
 
-#How to Config SQL Server ODBC?
+# How to Config SQL Server ODBC?
 
 	<h3 src=https://jingyan.baidu.com/article/c1a3101e579cbede656deb17.html>Web Page</h3>
 
