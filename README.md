@@ -1,6 +1,6 @@
 # Main Direction of Career
 
-	Big Data Drill and Anasys in BI
+	Big Data Mining and Anasys in BI
 
 # Techs I Need to Learn
 
