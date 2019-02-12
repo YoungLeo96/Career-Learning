@@ -7,7 +7,7 @@
 	IBM Cognos TM1
 	Scraping
 	MongoDB,Mysql,SQL Server
-	Hadoop + Spark
+	Hadoop + Spark + Apache Drill
 	Picture Configraion
 	Marchine Learning
 	Others... 
