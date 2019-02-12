@@ -1,8 +1,8 @@
-#Main Direction of Career
+# Main Direction of Career
 
 	Big Data Drill and Anasys in BI
 
-#Techs I Need to Learn
+# Techs I Need to Learn
 
 	IBM Cognos TM1
 	Scraping
@@ -12,12 +12,12 @@
 	Marchine Learning
 	Others... 
 
-#Certifications I Can Get
+# Certifications I Can Get
 
 	TM1 Cert
 	Others... 
 
-#Additional Traning
+# Additional Traning
 
 	English Speaking and Listening
 	Use API with Python or C++
