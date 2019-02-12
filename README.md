@@ -5,6 +5,7 @@
 # Techs I Need to Learn
 
 	IBM Cognos TM1
+	Python Module like Pandas, plot and so on...
 	Scraping
 	MongoDB,Mysql,SQL Server
 	Hadoop + Spark + Apache Drill
