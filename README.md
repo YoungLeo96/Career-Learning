@@ -16,3 +16,8 @@
 
 	TM1 Cert
 	Others... 
+
+#Additional Traning
+
+	English Speaking and Listening
+	Use API with Python or C++
