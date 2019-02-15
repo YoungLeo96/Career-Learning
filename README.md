@@ -1,3 +1,9 @@
+# Words For myself
+
+	Looking far and not stopped by money!
+	Money is Nothing, Experience is the Real King!
+	Do not think about to own too much at age of nothing!
+	
 # Main Direction of Career
 
 	Big Data Mining and Anasys in BI
