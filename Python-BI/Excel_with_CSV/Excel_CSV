@@ -1,0 +1,51 @@
+# Excel into CSV - pandas
+
+    import pandas as pd
+    file = '/test.xlsx'
+    outfile = '/test.csv'
+
+    def xlsx_to_csv_pd():
+        data_xls = pd.read_excel(file,index_col=0)
+        data_xls.to_csv(outfile,encoding='uft-8')
+
+    if __name__ == '__main__':
+        xlsx_to_csv_pd()
+        print ('\nSuccess!Directory is'+str(outfile))
+
+# CSV into Excel - pandas
+
+    import pandas as pd
+
+    def csv_to_xlsx_pd():
+        csv = pd.read_csv('1.csv',encoding='utf-8')
+        csv.to_excel('1.xlsx',sheet_name='data')
+
+    if __name__ == '__main__':
+        csv_to_xlsx_pd()s
+
+# CSV into Excel
+
+    import csv
+    import xlwt
+    import pandas as pd
+
+    def csv_to_xlsx(csvfile):
+        with open(csvfile,encoding='utf-8') as fc:
+            r_csv = csv.reader(fc)
+            workbook = xlwt.Workbook()
+            sheet = workbook.add_sheet('sheet1')
+            i = 0
+            j = 0
+            for line in r_csv:
+                for v in line:
+                    sheet.write(i,j,v)
+                    j = j + 1
+                i = i + 1
+            workbook.save(outfile)
+
+    file = '/test.csv'
+    outfile = '/test.xlsx'
+
+    if __name__ == '__main__':
+        csv_to_xlsx(file)
+        print('Sucess!Directory is'+str(outfile)
