@@ -1,0 +1,6 @@
+package:go1.10.3.linux-amd64.tar.gz
+需要将这个包解压到/usr/local/go下，可以用下列命令来完成：
+tar -C /usr/local -xzf go1.10.3.linux-amd64.tar.gz
+接下来，需要将/usr/local/go/bin目录添加到PATH环境变量中，可以使用以下命令来完成：
+export PATH=$PATH:/usr/local/go/bin
+使用go env指令，可以查看 Go 压缩包是否安装成功
